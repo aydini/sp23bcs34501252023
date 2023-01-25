@@ -16,6 +16,6 @@ public class Main {
         return a + b;
     }
     public static void main(String[] args){
-        System.out.println("Hello This is for third commit demo");        
+        System.out.println("Hello This edit is from inside Github");        
     }
 }
